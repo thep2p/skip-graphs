@@ -1,2 +1,2 @@
-# skip-graphs
-The overarching repository for Skip Graph project features set
+# Skip Graphs
+The overarching repository for Skip Graph project features set.
