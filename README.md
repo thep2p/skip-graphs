@@ -31,4 +31,3 @@ Thus, skip graphs provide DHT functionality with **ordered key support** and **l
 
 ## References
 1. Aspnes, James, and Gauri Shah. "Skip graphs." Acm transactions on algorithms (talg) 3.4 (2007): 37-es.
-```
